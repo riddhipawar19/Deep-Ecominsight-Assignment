@@ -1,0 +1,26 @@
+.schedule{
+    background-color: whitesmoke;
+}
+
+.meet{
+    display: flex;
+    gap: 3rem;
+}
+
+.active-meet{
+    padding: 20px;
+    background-color: rgba(59, 130, 253, 0.328);
+    width: 100%;
+}
+
+.meet-details{
+    padding: 20px;
+    background-color: rgb(216, 216, 216);
+    width: 100%;
+}
+
+.outer-div{
+    padding: 12px;
+    padding-left: 5rem;
+    
+}

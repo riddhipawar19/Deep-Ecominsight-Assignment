@@ -1,0 +1,31 @@
+.header-left{
+    gap: 0.8rem;
+}
+
+.header{
+    width: 91.4%;
+    padding-left: 1.8rem;
+    padding-left: 1.6rem;
+    padding-top: 0.8rem;
+    border-radius: 10px 10px 0 0;
+}
+
+span{
+    font-size: 0.8rem;
+}
+.sub-content{
+    padding-bottom: 1.2rem;
+}
+
+.options{
+    gap: 1.1rem;
+    padding-bottom: 1rem;
+}
+
+.options > span{
+    background-color: whitesmoke;
+    padding: 0.7rem;
+    border-radius: 12px;
+    font-weight: 400;
+    color: rgb(55, 55, 55);
+}
